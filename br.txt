@@ -1,0 +1,9 @@
+ID - identifier
+Title - Title for bug
+Steps - Steps that led to the bug
+Environment - The hardware on which the error was found
+EA - The result that should have been> according to the documentation
+AR - The result that we received and consider to be a mistake
+Attachment - Detailed description of the bug
+Investment - A field to which you can attach a visual representation of the error
+etc(depends on the internal rules of your work)
